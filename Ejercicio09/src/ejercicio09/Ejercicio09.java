@@ -16,6 +16,7 @@ public class Ejercicio09 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        boolean resultado = Math.sqrt(81)+
     }
     
 }
