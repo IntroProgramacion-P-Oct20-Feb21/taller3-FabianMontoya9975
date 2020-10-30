@@ -16,6 +16,8 @@ public class Ejercicio02 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        double Resultado = Math.pow(10,2)+10;
+         System.out.println(Resultado);
     }
     
 }
